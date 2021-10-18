@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Baby Care Home",
+        "price": "5000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://imgur.com/PQ5UORj.jpg"
+    },
+    {
+        "id": 2,
+        "name": "X-RAY",
+        "price": "1400",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://imgur.com/JXF8So6.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dental Service",
+        "price": "15000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://imgur.com/NKjNSfR"
+    },
+    {
+        "id": 4,
+        "name": "Cardiology Surgery",
+        "price": "180000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://imgur.com/o0TU48l.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Vascular Surgeon",
+        "price": "30000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://imgur.com/6Z7q62G.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Intensive care units (ICU)",
+        "price": "8000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://imgur.com/4xJ40yd.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Covid-19 patient special ",
+        "price": "8000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://imgur.com/P1HuZoI.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Blood test & Donation",
+        "price": "500",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://imgur.com/xfYNugI.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Intensive care units (ICU)",
+        "price": "8000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://imgur.com/4xJ40yd.jpg"
+    }
+]
